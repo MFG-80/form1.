@@ -1,0 +1,10 @@
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\bin\Debug\RENK.exe.config
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\bin\Debug\RENK.exe
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\bin\Debug\RENK.pdb
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\obj\Debug\RENK.csprojAssemblyReference.cache
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\obj\Debug\RENK.Form1.resources
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\obj\Debug\RENK.Properties.Resources.resources
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\obj\Debug\RENK.csproj.GenerateResource.cache
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\obj\Debug\RENK.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\obj\Debug\RENK.exe
+C:\Users\Mehmet Furkan Gürsoy\source\repos\RENK\RENK\obj\Debug\RENK.pdb
